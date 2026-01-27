@@ -1,5 +1,14 @@
-## Hi there 👋
+### Olá a todos👋
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-ribeiro-santos-da-cruz-560b05286/)](https://www.linkedin.com/in/kevin-ribeiro-santos-da-cruz-560b05286/)
+[![Gmail Badge](https://img.shields.io/badge/-kevincruz19sant@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevincruz19sant@gmail.com)](mailto:kevincruz19sant@gmail.com@gmail.com)
+
+## My name is Kevin da Cruz
+(Java | Python | SQL | APIs Rest | Spring Boot ) 
+
+- 👨🏻‍💻 Studying Software Engineering at @(https://www.unicid.edu.br/)
+- Live in São Paulo
+- ❤️ Love a good challenge
 <!--
 **kevcruzz/kevcruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
