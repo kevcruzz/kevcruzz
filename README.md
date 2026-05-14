@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 Studying Software Engineering at @(https://www.unicid.edu.br/)
 - Live in São Paulo
-- ❤️ Love a good challenge
+- Love a good challenge
 <!--
 **kevcruzz/kevcruzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
